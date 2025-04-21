@@ -67,4 +67,5 @@ This project is open source and available under the MIT License.
 - China: **81 Oscar Piastri**
 - Japan: **1 Max Verstappen**
 - Bahrain: **81 Oscar Piastri**
+- Saudi Arabia: **1 Max Verstappen**
 
